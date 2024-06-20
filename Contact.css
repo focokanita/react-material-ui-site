@@ -1,0 +1,26 @@
+.contact {
+  padding: 24px;
+  text-align: center;
+}
+
+.contact h2,
+.contact h6 {
+  margin-bottom: 16px;
+}
+
+.contact p {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.contact form {
+  margin-top: 24px;
+}
+
+.contact form .MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.contact form .MuiButton-root {
+  margin-top: 16px;
+}

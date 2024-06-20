@@ -1,0 +1,21 @@
+.navbar {
+  background-color: lavender;
+}
+
+.navbar .MuiTypography-root {
+  flex-grow: 1;
+}
+
+.navbar .MuiButton-root {
+  color: rgb(183, 25, 25);
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar .MuiButton-root:hover {
+  background-color: rgb(72, 146, 206);
+}
+
+.navbar .MuiButton-root.active {
+  background-color: lavender;
+}

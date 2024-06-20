@@ -1,0 +1,22 @@
+.music {
+  padding: 24px;
+}
+
+.music h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 24px;
+}
+
+.music audio {
+  display: block;
+  margin: 0 auto;
+}
+
+.music .playlist {
+  margin-top: 24px;
+}
+
+.music .playlist .MuiListItem-button {
+  text-align: center;
+}
